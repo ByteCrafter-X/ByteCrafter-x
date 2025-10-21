@@ -46,7 +46,7 @@ Track my contributions and progress automatically with these dynamic cards:
 
 See what I've been working on recently across my repositories.
 
-[![ByteCrafter-X's Activity](https://github-activity-readme.vercel.app/feed?username=ByteCrafter-X&theme=github)](https://github.com/ByteCrafter-X)
+[![ByteCrafter-X Activity Graph](https://activity-graph.vercel.app/graph?username=ByteCrafter-X&theme=github)](https://github.com/ByteCrafter-X)
 
 ---
 <div align="center">
