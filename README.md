@@ -8,7 +8,7 @@
 
 ### 💻 A Bit About the Crafter
 
-I'm a highly motivated **student** from **Ananda College, Colombo**, with a strong passion for transforming digital concepts into reality. I specialize in backend logic and system architecture, and I'm driven by the potential of cutting-edge technologies.
+I'm a highly motivated **student** from **Ananda College, Colombo**, passionately focused on the intersection of **Artificial Intelligence (AI)** and **DevOps**. My goal is to craft efficient solutions and build scalable systems, driven by a love for learning cutting-edge technologies.
 
 -   🎓 **Currently Studying at:** Ananda College, Colombo.
 -   🚀 **My Passions:** I'm particularly interested in **Artificial Intelligence (AI)** and **DevOps** practices.
