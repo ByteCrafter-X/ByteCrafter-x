@@ -1,4 +1,4 @@
-# Hello World! 👋 I'm ByteCrafterX
+# Hello World! 👋 I'm ByteCrafter-X
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-9086-1d1ae6aa9fb2.gif" alt="Coding GIF" width="800"/>
@@ -15,7 +15,7 @@ I'm a highly motivated **student** from **Ananda College, Colombo**, with a stro
 -   🌱 **Currently Learning:** Advanced concepts in **machine learning algorithms** and **cloud infrastructure (AWS/Azure)**.
 -   🤝 **Looking to Collaborate on:** Open-source projects focusing on **AI**, **automation**, or simple utilities that solve real-world problems.
 -   💬 **Ask me about:** Python, Git, or my favorite AI research paper!
--   📧 **How to reach me:** [senuthsilwa@gmail.com]
+-   📧 **How to reach me:** [Your Professional Email or LinkedIn Profile Link]
 -   ⚡ **Fun fact:** I find my best solutions right after taking a short break from the keyboard.
 
 ---
@@ -38,7 +38,7 @@ Track my contributions and progress automatically with these dynamic cards:
 
 | Stats Card | Top Languages | Trophies |
 | :---: | :---: | :---: |
-| [![ByteCrafterX's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByteCrafterX&show_icons=true&theme=gotham&hide_border=true&count_private=true)](https://github.com/ByteCrafterX/github-readme-stats) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteCrafterX&layout=compact&theme=gotham&hide_border=true)](https://github.com/ByteCrafterX/github-readme-stats) | [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ByteCrafterX&theme=gotham)](https://github.com/ryo-ma/github-profile-trophy) |
+| [![ByteCrafter-X's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByteCrafter-X&show_icons=true&theme=gotham&hide_border=true&count_private=true)](https://github.com/ByteCrafter-X/github-readme-stats) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteCrafter-X&layout=compact&theme=gotham&hide_border=true)](https://github.com/ByteCrafter-X/github-readme-stats) | [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ByteCrafter-X&theme=gotham)](https://github.com/ryo-ma/github-profile-trophy) |
 
 ---
 
@@ -46,7 +46,7 @@ Track my contributions and progress automatically with these dynamic cards:
 
 See what I've been working on recently across my repositories.
 
-[![ByteCrafterX's Activity](https://github-activity-readme.vercel.app/feed?username=ByteCrafterX&theme=github)](https://github.com/ByteCrafterX)
+[![ByteCrafter-X's Activity](https://github-activity-readme.vercel.app/feed?username=ByteCrafter-X&theme=github)](https://github.com/ByteCrafter-X)
 
 ---
 <div align="center">
