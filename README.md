@@ -29,24 +29,6 @@ These are the core languages and tools I use in my academic projects and persona
 | **Focus Areas** | ![Artificial Intelligence](https://img.shields.io/badge/AI-FF6600?style=for-the-badge&logo=tensorflow&logoColor=white) ![DevOps](https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=devops&logoColor=white) |
 
 ---
-
-## 🔥 GitHub Stats and Activity
-
-Track my contributions and progress automatically with these dynamic cards:
-
-| Stats Card | Top Languages | Trophies |
-| :---: | :---: | :---: |
-| [![ByteCrafter-X's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByteCrafter-X&show_icons=true&theme=gotham&hide_border=true&count_private=true)](https://github.com/ByteCrafter-X/github-readme-stats) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteCrafter-X&layout=compact&theme=gotham&hide_border=true)](https://github.com/ByteCrafter-X/github-readme-stats) | [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ByteCrafter-X&theme=gotham)](https://github.com/ryo-ma/github-profile-trophy) |
-
----
-
-## 📈 Latest Activity
-
-See what I've been working on recently across my repositories.
-
-[![ByteCrafter-X Activity Graph](https://activity-graph.vercel.app/graph?username=ByteCrafter-X&theme=github)](https://github.com/ByteCrafter-X)
-
----
 <div align="center">
   **"Crafting code today for the future of tomorrow."**
 </div>
