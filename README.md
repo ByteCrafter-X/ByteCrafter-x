@@ -1,5 +1,4 @@
-# Hello World! 👋 I'm ByteCrafter-X
-
+# Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm ByteCrafter-X
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-9086-1d1ae6aa9fb2.gif" alt="Coding GIF" width="800"/>
 </div>
