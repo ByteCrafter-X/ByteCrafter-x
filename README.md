@@ -15,7 +15,6 @@ I'm a highly motivated **student** from **Ananda College, Colombo**, with a stro
 -   🌱 **Currently Learning:** Advanced concepts in **machine learning algorithms** and **cloud infrastructure (AWS/Azure)**.
 -   🤝 **Looking to Collaborate on:** Open-source projects focusing on **AI**, **automation**, or simple utilities that solve real-world problems.
 -   💬 **Ask me about:** Python, Git, or my favorite AI research paper!
--   📧 **How to reach me:** [Your Professional Email or LinkedIn Profile Link]
 -   ⚡ **Fun fact:** I find my best solutions right after taking a short break from the keyboard.
 
 ---
